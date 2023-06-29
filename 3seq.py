@@ -3,3 +3,4 @@ set2 = set(map(int, input('Введите элементы 2-го списка: 
 set3 = set1 - set2
 print('Результат: ', end='')
 print(*set3, sep=', ')
+

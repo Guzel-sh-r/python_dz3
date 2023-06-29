@@ -28,3 +28,4 @@ while True:
     start = input("Хотите начать игру сначала? ")
     if start == "нет":
         break
+

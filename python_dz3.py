@@ -16,3 +16,4 @@ seting.add(12), seting.pop(), seting.discard(3), seting.update({4, 8}), seting.c
 # Популярные методы строк (str):
 stroka = 'Весело играть на лужайке'
 stroka.split(), stroka.replace('Весело', 'Интересно'), stroka.count('играть'), stroka.lower(), stroka.find('е')
+

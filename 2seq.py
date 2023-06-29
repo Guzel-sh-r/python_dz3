@@ -11,3 +11,4 @@ for i in spisok:
         answer.append(i)
 print('Результат: ', end='')
 print(*answer, sep=', ')
+
